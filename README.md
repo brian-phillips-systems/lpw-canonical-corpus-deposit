@@ -4,8 +4,8 @@ A structured, version-controlled corpus publication demonstrating
 deterministic text segmentation, atomic file initialization, and strict
 separation between source preservation and analytic layers.
 
-This repository represents a canonical deposit layer for a structured
-text corpus. It is intentionally minimal and text-first.
+This repository  is a minimal and text-first canonical deposit layer for a structured
+corpus. 
 
 ---
 
